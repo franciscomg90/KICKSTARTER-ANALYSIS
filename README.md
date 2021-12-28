@@ -27,5 +27,9 @@ Also looking into the outcomes based on launch date, we can see there's some sta
 As a conclusion. Last two graphs shows opportunities for Lucie:
 1.- Funding more but smaller theater plays
 2.- Funding a big theater play though several segregated campaings
+
+For further information you can review the file attached here. Best regards, FM.
+[filename](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Archivo.zip)
+
 3.- Stop or reduce launching campaings on month with lower succesful/failed ratios as January and launch them in summer.  
 
