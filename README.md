@@ -10,6 +10,7 @@ Starting with the analysis it required to recalculate and convert a sort of form
 As I went further with the analysis I calculated new data as descriptive Statistics, graphs and ratios to find which variables are better to understand how plays behave. 
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Ranges.png)
 Statisticals are comonly used to analyse historical data and in this case they provided good information about successful and failed campaings. 
+![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Statisticals.png)
 
 
 
