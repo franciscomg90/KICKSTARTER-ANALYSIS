@@ -6,7 +6,7 @@ The porpouse of this analysis is to help Louise to understand better how theater
 
 #Analysis-and-Challenges
 Starting with the analysis it required to recalculate and convert a sort of formats and data there weren't easy to read or interpret, so we made some new columns as I show below that make it easier to begin using the data.
-
+![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 
 
