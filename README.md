@@ -7,8 +7,10 @@ The porpouse of this analysis is to help Louise to understand better how theater
 #Analysis-and-Challenges
 Starting with the analysis it required to recalculate and convert a sort of formats and data there weren't easy to read or interpret, so we made some new columns as I show below that made it easier to begin filtering and using the data.
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Screen%20excel.png)
+
 As I went further with the analysis I calculated new data as descriptive Statistics, graphs and ratios to find which variables are better to understand how plays behave. 
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Ranges.png)
+
 Statisticals are comonly used to analyse historical data and in this case they provided good information about successful and failed campaings. 
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Statisticals.png)
 
