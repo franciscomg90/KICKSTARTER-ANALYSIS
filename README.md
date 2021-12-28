@@ -14,5 +14,16 @@ As I went further with the analysis I calculated new data as descriptive Statist
 Statisticals are comonly used to analyse historical data and in this case they provided good information about successful and failed campaings.
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Statisticals1.png)
 
+#Results
+Based on this information we can see that in the average the number succesful theater campaings are 1.5 times bigger than failed campaings, so we would say she has a prosper and succesful at crowdfunding project.
+![alt text](
+
+But not that fast, if we look in to the goals/pledged data we can see Louise maybe is leaving money over the table. 
+
+As the graph shows, as Louise is increasing the goals, the less probability of succesfull she has.
+
+Also looking into the outcomes based on launch date, we can see there's some stationality in the somer months
+  
+
 
 
