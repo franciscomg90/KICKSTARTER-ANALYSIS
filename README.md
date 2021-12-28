@@ -18,13 +18,14 @@ Statisticals are comonly used to analyse historical data and in this case they p
 Based on this information we can see that in the average the number succesful theater campaings are 1.5 times bigger than failed campaings, so we would say she has a prosper and succesful at crowdfunding project.
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Theater%20Outcomes.png)
 
-But not that fast, because if we look into the goals/pledged data we can see Louise maybe is leaving money over the table. 
+But not that fast, because if we look into the goals/pledged data we can see Louise maybe is leaving money over the table. As the graph below shows, the bigger goal Louise sets, the less probability of succesfull she has.
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Outcomes_vs_Goals1.png)
-As the graph shows, as Louise is increasing the goals, the less probability of succesfull she has.
 
-Also looking into the outcomes based on launch date, we can see there's some stationality in the summer months.
+Also looking into the outcomes based on launch date, we can see there's some stationality in the summer months where for some reasons people is funding more.
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
   
-
-
+As a conclusion. Last two graphs shows opportunities for Lucie:
+1.- Funding more but smaller theater plays
+2.- Funding a big theater play though several segregated campaings
+3.- Stop or reduce launching campaings on month with lower succesful/failed ratios as January and launch them in summer.  
 
