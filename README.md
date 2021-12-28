@@ -19,7 +19,7 @@ Based on this information we can see that in the average the number succesful th
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Theater%20Outcomes.png)
 
 But not that fast, because if we look into the goals/pledged data we can see Louise maybe is leaving money over the table. 
-![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Outcomes_vs_Goals1.png)
 As the graph shows, as Louise is increasing the goals, the less probability of succesfull she has.
 
 Also looking into the outcomes based on launch date, we can see there's some stationality in the summer months.
