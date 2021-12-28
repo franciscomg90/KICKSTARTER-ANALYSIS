@@ -16,7 +16,7 @@ Statisticals are comonly used to analyse historical data and in this case they p
 
 #Results
 Based on this information we can see that in the average the number succesful theater campaings are 1.5 times bigger than failed campaings, so we would say she has a prosper and succesful at crowdfunding project.
-![alt text](
+![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Theater%20Outcomes.png)
 
 But not that fast, if we look in to the goals/pledged data we can see Louise maybe is leaving money over the table. 
 
