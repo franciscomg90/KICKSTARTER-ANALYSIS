@@ -12,7 +12,6 @@ As I went further with the analysis I calculated new data as descriptive Statist
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Ranges.png)
 
 Statisticals are comonly used to analyse historical data and in this case they provided good information about successful and failed campaings. 
-
 ![alt text](https://github.com/franciscomg90/Kickstarter-analysis/blob/main/Statisticals1.png)
 
 
